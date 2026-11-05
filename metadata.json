@@ -1,0 +1,6 @@
+{
+  "name": "StudySphere TGPSC",
+  "description": "Comprehensive EdTech study portal and practice engine for TGPSC Group-I, Group-II, Group-III, and Group-IV aspirants with bilingual syllabus notes, mock test engine, video vault, flashcards, and Gemini AI tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
